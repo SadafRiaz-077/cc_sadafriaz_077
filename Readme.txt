@@ -1,11 +1,11 @@
-# Lab 03 – Advanced Git Operations  
+# Lab 3 â€“ Advanced Git Operations  
 **Name:** Sadaf Riaz  
 **Roll No:** 2023-BSE-077  
 **Class:** BSE5-B  
 
 ---
 
-## Task 1 – Handling Local and Remote Commit Conflicts (Pull vs Pull --rebase)
+## Task 1 â€“ Handling Local and Remote Commit Conflicts (Pull vs Pull --rebase)
 
 ### Remote Edit on GitHub  
 ![Remote Edit](Screenshots/01remote_edit.png)
@@ -30,13 +30,13 @@
 
 ---
 
-## Task 2 – Creating and Resolving Merge Conflicts Manually
+## Task 2 â€“ Creating and Resolving Merge Conflicts Manually
 
 ### Local Conflicting Change  
-![Local Conflict Edit](Screenshots/09local_conflict_edit.png)
+![Local Conflict](Screenshots/09local_conflict_edit.png)
 
 ### Remote Conflicting Change  
-![Remote Conflict Edit](Screenshots/09remote_conflict_edit.png)
+![Remote Conflict](Screenshots/09remote_conflict_edit.png)
 
 ### Local Conflict Commit  
 ![Local Conflict Commit](Screenshots/10local_conflict_commit.png)
@@ -51,7 +51,7 @@
 ![Resolved Readme](Screenshots/13resolved_readme.png)
 
 ### Continue Rebase After Conflict Resolution  
-![Rebase Continue 1](Screenshots/13rebase_continue.png)  
+![Rebase Continue 1](Screenshots/13rebase_continue.png)
 ![Rebase Continue 2](Screenshots/14rebase_continue.png)
 
 ### Push Resolved Changes  
@@ -59,7 +59,7 @@
 
 ---
 
-## Task 3 – Managing Ignored Files with .gitignore and Removing Tracked Files
+## Task 3 â€“ Managing Ignored Files with .gitignore and Removing Tracked Files
 
 ### Create Directory and Files  
 ![Push Textfiles](Screenshots/16push_textfiles.png)
@@ -69,10 +69,10 @@
 
 ---
 
-## Task 4 – Create Temporary Changes and Use git stash
+## Task 4 â€“ Create Temporary Changes and Use git stash
 
 ### Modify File and Commit  
-![Modified Readme](Screenshots/19modified_readme.png)
+![Modified README](Screenshots/19modified_readme.png)
 
 ### Attempt Branch Switch with Uncommitted Changes  
 ![Checkout Error](Screenshots/19checkout_error.png)
@@ -94,7 +94,7 @@
 
 ---
 
-## Task 5 – Checkout a Specific Commit Using git log
+## Task 5 â€“ Checkout a Specific Commit Using git log
 
 ### View Commit History  
 ![Log Before Checkout](Screenshots/24log_before_checkout.png)
@@ -107,7 +107,7 @@
 
 ---
 
-## Task 6 – Resetting Commits (Soft vs Hard Reset)
+## Task 6 â€“ Resetting Commits (Soft vs Hard Reset)
 
 ### First Commit  
 ![First Commit](Screenshots/27first_commit.png)
@@ -141,7 +141,7 @@
 
 ---
 
-## Task 7 – Amending the Last Commit
+## Task 7 â€“ Amending the Last Commit
 
 ### Initial Commit  
 ![First Amend Commit](Screenshots/38first_amend_commit.png)
@@ -151,7 +151,7 @@
 
 ---
 
-## Task 8 – Reverting a Commit (Safe Undo on Remote Branch)
+## Task 8 â€“ Reverting a Commit (Safe Undo on Remote Branch)
 
 ### Create Temporary Commit  
 ![Commit Temp File](Screenshots/40commit_temp_file.png)
@@ -164,7 +164,7 @@
 
 ---
 
-## Task 9 – Force Push (With Caution)
+## Task 9 â€“ Force Push (With Caution)
 
 ### Create New Branch  
 ![New Branch](Screenshots/43new_branch.png)
@@ -186,7 +186,7 @@
 
 ---
 
-## Task 10 – Running Gitea in GitHub Codespaces via Docker Compose / Fork Gitea Repository
+## Task 10 â€“ Running Gitea in GitHub Codespaces via Docker Compose / Fork Gitea Repository
 
 ### Fork Gitea Repository  
 ![Forked Gitea](Screenshots/50forked_gitea.png)
@@ -211,7 +211,7 @@
 
 ---
 
-## Task 11 – Creating a GitHub Pages Portfolio Site
+## Task 11 â€“ Creating a GitHub Pages Portfolio Site
 
 ### Create GitHub Pages Repository  
 ![GitHub Pages Repo](Screenshots/57github_pages_repo.png)
@@ -227,8 +227,3 @@
 
 ### Visit Live Site  
 ![Live Site](Screenshots/61live_site.png)
-
----
-
-## ?? Folder Structure
-
