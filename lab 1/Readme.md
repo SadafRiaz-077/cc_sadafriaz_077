@@ -1,4 +1,4 @@
-# ?? CC Lab 01 ñ Ubuntu Server Installation (VMware)
+# ?? CC Lab 01 ‚Äì Ubuntu Server Installation (VMware)
 
 **Name:** Sadaf Riaz  
 **Registration No:** 2023-BSE-073  
@@ -26,7 +26,7 @@ To learn how to install and configure **Ubuntu Server** inside a **VMware Virtua
 
 ### ?? Step 2: Load Ubuntu ISO
 - Browse and select the **Ubuntu Server ISO file**.
-- Make sure to check **ìUnblockî** in file properties before using.
+- Make sure to check **‚ÄúUnblock‚Äù** in file properties before using.
 
 ?? Screenshots:  
 ![Step 2](Screenshots/screenshot_page2_1.jpeg)  
