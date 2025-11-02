@@ -1,4 +1,4 @@
-# ?? CC Lab 01 – Ubuntu Server Installation (VMware)
+#  CC Lab 01 – Ubuntu Server Installation (VMware)
 
 **Name:** Sadaf Riaz  
 **Registration No:** 2023-BSE-073  
@@ -6,25 +6,25 @@
 
 ---
 
-## ?? Objective
+##  Objective
 To learn how to install and configure **Ubuntu Server** inside a **VMware Virtual Machine**.
 
 ---
 
-## ?? Steps Performed
+##  Steps Performed
 
-### ?? Step 1: Open VMware Workstation
+###  Step 1: Open VMware Workstation
 - Launch VMware on your system.
 - Create a **New Virtual Machine**.
 
-?? Screenshots:  
+Screenshots:  
 ![Step 1](Screenshots/screenshot_page1_1.jpeg)  
 ![Step 1](Screenshots/screenshot_page1_2.jpeg)  
 ![Step 1](Screenshots/screenshot_page1_3.jpeg)
 
 ---
 
-### ?? Step 2: Load Ubuntu ISO
+###  Step 2: Load Ubuntu ISO
 - Browse and select the **Ubuntu Server ISO file**.
 - Make sure to check **“Unblock”** in file properties before using.
 
@@ -37,7 +37,7 @@ To learn how to install and configure **Ubuntu Server** inside a **VMware Virtua
 
 ---
 
-### ?? Step 3: Configure VM Settings
+###  Step 3: Configure VM Settings
 - Allocate memory, disk space, and network configuration.
 - Continue until ready to start the virtual machine.
 
@@ -49,19 +49,19 @@ To learn how to install and configure **Ubuntu Server** inside a **VMware Virtua
 
 ---
 
-### ?? Step 4: Start the Virtual Machine
+###  Step 4: Start the Virtual Machine
 - Power on the VM to begin the Ubuntu Server installer.
 - Follow installation steps such as:
   - Choose language and keyboard layout  
   - Configure storage, proxy, and network  
   - Set up a user profile
 
-?? Screenshot:  
+Screenshot:  
 ![Step 4](Screenshots/screenshot_page4_1.jpeg)
 
 ---
 
-### ?? Step 5: Handle Installation Errors
+###  Step 5: Handle Installation Errors
 If an error occurs (e.g. **APT configuration failed**), check:
 1. ISO file unblocked properly  
 2. Internet connection active  
@@ -71,24 +71,24 @@ If an error occurs (e.g. **APT configuration failed**), check:
 
 Then restart from Step 4 after fixing issues.
 
-?? Screenshots:  
+Screenshots:  
 ![Step 5](Screenshots/screenshot_page5_1.jpeg)  
 ![Step 5](Screenshots/screenshot_page5_2.jpeg)
 
 ---
 
-### ?? Step 6: Final Setup
+###  Step 6: Final Setup
 - Complete installation.  
 - Log in to Ubuntu using your created credentials.  
 - Optionally, connect via **SSH from Windows**.
 
-?? Screenshots:  
+Screenshots:  
 ![Step 6](Screenshots/screenshot_page6_2.jpeg)  
 ![Step 6](Screenshots/screenshot_page6_3 - Copy.jpeg)
 
 ---
 
-## ? Conclusion
+##  Conclusion
 Successfully installed and configured **Ubuntu Server** in a VMware virtual machine environment.  
 Learned about disk configuration, networking setup, and troubleshooting installation errors.
 
