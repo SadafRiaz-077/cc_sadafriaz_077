@@ -1,10 +1,10 @@
 
-CC Lab 06 – Linux Users, Groups, Permissions & Shell Scripting
+CC Lab 06 â€“ Linux Users, Groups, Permissions & Shell Scripting
 Student: Sadaf Riaz
 Roll No: 2023-BSE-077
 Section: BSE-5B
 
- Task 1 – Switching to Root
+ Task 1 â€“ Switching to Root
 * Set root password
 31task1_set_root_password.png
 * Switch to root
@@ -12,7 +12,7 @@ Section: BSE-5B
 * Return to normal user
 03task1_exit_to_user.png
 
- Task 2 – Create User tom & Verify Files
+ Task 2 â€“ Create User tom & Verify Files
 * Create user
 04task2_adduser_tom.png
 * Verify /etc/passwd
@@ -22,7 +22,7 @@ Section: BSE-5B
 * Verify /etc/shadow
 07task2_verify_shadow.png
 
-Task 3 – Group Creation & Managing User Groups
+Task 3 â€“ Group Creation & Managing User Groups
 * Create groups
 08task3_groupadd.png
 * Change primary group
@@ -32,7 +32,7 @@ Task 3 – Group Creation & Managing User Groups
 * Reset secondary groups
 11task3_reset_secondary_groups.png
 
- Task 4 – Create/Delete Users & Groups
+ Task 4 â€“ Create/Delete Users & Groups
 * Create users
 12task4_add_users.png
 * Failed Scooby login
@@ -58,7 +58,7 @@ Task 3 – Group Creation & Managing User Groups
 * Delete users
 23task4_delete_users.png
 
- Task 5 – Create Student User & File Ownership
+ Task 5 â€“ Create Student User & File Ownership
 * Create student user
 24task5_create_student.png
 * Create files
@@ -72,7 +72,7 @@ Task 3 – Group Creation & Managing User Groups
 * Exit student
 29task5_exit_student.png
 
-Task 6 – Symbolic Permissions
+Task 6 â€“ Symbolic Permissions
 * Switch to student
 30task6_su_student.png
 * Remove rwx
@@ -86,7 +86,7 @@ Task 6 – Symbolic Permissions
 * Remove all rwx
 35task6_chmod_ugo_minus_rwx.png
 
- Task 7 – chmod using u= g= o=
+ Task 7 â€“ chmod using u= g= o=
 * Student context
 36task7_student_context.png
 * Set all rwx
@@ -96,7 +96,7 @@ Task 6 – Symbolic Permissions
 * Remove all permissions
 39task7_remove_all_perms.png
 
- Task 8 – Numeric Permissions
+ Task 8 â€“ Numeric Permissions
 * Student context
 40task8_student_context.png
 * chmod 777 ? full access
@@ -114,7 +114,7 @@ Task 6 – Symbolic Permissions
 * chmod 750
 47task8_chmod_750.png
 
- Task 9 – Grep, Pipes & Redirects
+ Task 9 â€“ Grep, Pipes & Redirects
 * grep + less
 48task9_grep_less.png
 * grep + more
@@ -126,7 +126,7 @@ Task 6 – Symbolic Permissions
 * Redirect append
 52task9_redirect_append.png
 
-Task 10 – Script Basics
+Task 10 â€“ Script Basics
 * Shebang
 53task10_b1_vim.png / 54task10_b1_run.png
 * var1
@@ -140,15 +140,15 @@ Task 10 – Script Basics
 * Permission check
 63task10_b6_vim.png / 64task10_b6_run.png
 
-Task 11 – Numeric & String Tests
+Task 11 â€“ Numeric & String Tests
 * Variables
 65task11_b0_vim.png / 66task11_b0_run.png
 * Numeric tests
-b1–b6 screenshots
+b1â€“b6 screenshots
 * String tests (=, !=, -z)
-79–84task11_b7_b9.png
+79â€“84task11_b7_b9.png
 
- Task 12 – For Loop Arguments
+ Task 12 â€“ For Loop Arguments
 * Script
 85task12_b1_vim.png
 * Output
@@ -158,7 +158,7 @@ b1–b6 screenshots
 * Output
 88task12_b2_run.png
 
-Task 13 – Loops & Functions
+Task 13 â€“ Loops & Functions
 * Shebang
 89task13_b1_vim.png
 * While-loop summation
@@ -168,7 +168,7 @@ Task 13 – Loops & Functions
 * Sum args function
 95task13_b4_vim.png / 96task13_b4_run.png
 
- Task 14 – GitHub Codespaces GUI
+ Task 14 â€“ GitHub Codespaces GUI
 * Fork
 97task14_fork.png
 * Launch Codespace
@@ -180,41 +180,41 @@ Task 13 – Loops & Functions
 * Ports
 101task14_ports_view.png
 * VNC
-102–104task14_vnc.png
+102â€“104task14_vnc.png
 * Stop GUI
 105task14_stop_run.png
 
  Exam Evaluation Questions
-Q1 – Groups
+Q1 â€“ Groups
 Screenshots:
 106Q1_groups_created.png
 107Q1_group_changes.png
 108Q1_group_verification.png
 
-Q2 – Ownership & Permissions
+Q2 â€“ Ownership & Permissions
 109Q2_chown_chgrp.png
 111Q2_symbolic_numeric.png
 112Q2_permissions_ls.png
 
-Q3 – Pipes, Grep, Redirect
+Q3 â€“ Pipes, Grep, Redirect
 113Q3_grep_pipe.png
 114Q3_redirect_overwrite_append.png
 
-Q4 – Script Variables & File Checks
+Q4 â€“ Script Variables & File Checks
 115Q4_step1_var1.png
 117Q4_step2_allfiles.png
 118Q4_step3_dirfile_checks.png
 
-Q5 – Numeric & String Tests
+Q5 â€“ Numeric & String Tests
 119Q5_eq_examples.png
 120Q5_numeric_tests.png
 121Q5_string_tests.png
 
-Q6 – For Loop
+Q6 â€“ For Loop
 122Q6_script_forloop_vim.png
 123Q6_forloop_run.png
 
-Q7 – While Loop & Functions
+Q7 â€“ While Loop & Functions
 125Q7_script_output.png
 
 
